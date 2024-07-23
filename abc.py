@@ -1,0 +1,1 @@
+print("badha ghare vaya jaav khandvi ame banne j khasu ")
